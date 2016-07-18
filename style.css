@@ -121,7 +121,7 @@ h4{
 .underline_text {
       border-bottom: solid 2px #000000;
       display: inline;
-      padding-bottom: 3px;
+      padding-bottom: 10px;
 }
 
 .titlep {
