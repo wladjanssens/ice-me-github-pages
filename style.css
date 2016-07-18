@@ -115,7 +115,7 @@ h4{
 
 .imagetumb:hover{
 	color:black;
-	opacity:0.2;
+	opacity:0.5;
 }
 
 .underline_text {
@@ -124,6 +124,8 @@ h4{
       padding-bottom: 3px;
 }
 
-.row p{
-	text-decoration: underline;
+.titlep {
+	font-size: 16px;
+	font-family: open-sans; 
+	color:grey;
 }
