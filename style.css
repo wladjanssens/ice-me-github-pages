@@ -123,3 +123,7 @@ h4{
       display: inline;
       padding-bottom: 3px;
 }
+
+.row p{
+	text-decoration: underline;
+}
